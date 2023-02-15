@@ -1,0 +1,9 @@
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/model/User.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/api/BaseClient.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/api/UserClient.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/api/OrderClient.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/model/Ingredient.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/model/CreateAndAuthUserResponse.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/api/Api.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/model/CreateOrderRequest.java
+/home/sergei/Diplom_Sergei_Panarin_14/Diplom_2/src/main/java/model/GetIngredientsRequest.java
