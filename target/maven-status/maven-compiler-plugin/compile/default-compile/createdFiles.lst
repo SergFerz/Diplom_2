@@ -1,0 +1,9 @@
+api/OrderClient.class
+api/Api.class
+model/Ingredient.class
+model/CreateAndAuthUserResponse.class
+model/GetIngredientsRequest.class
+model/User.class
+api/UserClient.class
+model/CreateOrderRequest.class
+api/BaseClient.class
